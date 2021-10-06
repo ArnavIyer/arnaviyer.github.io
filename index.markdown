@@ -20,4 +20,8 @@ Hello! I'm a student at UT Austin studying computer science. I am interested in 
 - Autonomous Vehicles
 - Multiagent Systems
 
-I also enjoy cooking and eating food from all over India.
+Here are some links:
+
+- [Resume](/resume.pdf)
+- [Github](https://github.com/ArnavIyer)
+- [Linkedin](https://linkedin.com/in/iyerarnav)

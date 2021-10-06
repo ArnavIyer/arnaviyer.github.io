@@ -9,8 +9,8 @@ linkedin_username: iyerarnav
 
 profilepic: files/photo.jpg
 
-header_pages:
-  - resume.md
+# header_pages:
+#   - resume.md
 
 # Build settings
 theme: minima
