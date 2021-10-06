@@ -1,6 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+<div class="profilepic-container" style="text-align: center">
+    <img src="/files/photo.jpg" width="200" style="display: inline-block; background-size: cover; border-radius: 50%; -moz-border-radius: 50%; border: 2px solid $background-color; box-shadow: 0 0 0 3px $text-color;" />
+</div>
+
+<style>
+.footer {
+  display: none;
+}
+</style>
+
+## About Me
+
+Hello! I'm a student at UT Austin studying computer science. I am interested in the following:
+
+- Robotics
+- Autonomous Vehicles
+- Multiagent Systems
+
+I also enjoy cooking and eating food from all over India.
